@@ -1,6 +1,4 @@
-Creating a `README.md` file for your project involves providing a brief overview, setup instructions, and any relevant details. Here's a structured `README.md` for your project:
 
----
 
 # Face Expression Recognition using CNN and Transfer Learning
 
